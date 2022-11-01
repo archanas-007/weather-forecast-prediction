@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/G:/WhetherPrediction/src/whetherforcast/frmAdminAccount.java</file>
+            <file>file:/G:/WhetherPrediction/src/Analayse/whether/forcast/opensource/dataobjects/FeatureStats.java</file>
+            <file>file:/G:/WhetherPrediction/src/whetherforcast/Main.java</file>
+            <file>file:/G:/WhetherPrediction/src/whetherforcast/WelcomeScreen.java</file>
+            <file>file:/G:/WhetherPrediction/src/Analayse/whether/forcast/opensource/dataobjects/NaiveBayesKnowledgeBase.java</file>
+            <file>file:/G:/WhetherPrediction/src/whetherforcast/frmForget.java</file>
+            <file>file:/G:/WhetherPrediction/src/whetherforcast/frmLogin.java</file>
+            <file>file:/G:/WhetherPrediction/src/Analayse/whether/forcast/opensource/dataobjects/Document.java</file>
+        </group>
+        <group name="Group 20170425-02:41:33"/>
+        <group name="Group 20170424-09:50:51">
+            <file>file:/C:/Users/ADITYA/Desktop/project/WhetherPrediction/newjsf1.xhtml</file>
+        </group>
+        <group name="Group 20170425-02:45:56">
+            <file>file:/C:/Users/ADITYA/Desktop/project/WhetherPrediction/src/predict/something/PredictTemp.java</file>
+            <file>file:/C:/Users/ADITYA/Desktop/project/WhetherPrediction/src/DB/NavieBayesClassifier.java</file>
+            <file>file:/C:/Users/ADITYA/Desktop/project/WhetherPrediction/src/datasets/rainy.txt</file>
+            <file>file:/C:/Users/ADITYA/Desktop/project/WhetherPrediction/src/datasets/overcastl.txt</file>
+            <file>file:/C:/Users/ADITYA/Desktop/project/WhetherPrediction/src/datasets/sunny.txt</file>
+        </group>
+    </open-files>
+</project-private>
